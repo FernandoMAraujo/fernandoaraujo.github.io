@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/*---Home---*/
+
+#home {
+    background-color: white;
+    width: 80%;
+    /*height: 600px;*/
+    margin: auto;
+    position: relative;
+    /*border: 1px solid orange;*/
+}
+
+h1 {
+    padding-top: 200px;
+    position: absolute;
+    left: 30px;
+}
+
+#home img {
+    width: 320px;
+    padding-top: 115px;
+}
+
+.greeting {
+    font-size: 50px;
+}
+
+.blue-text {
+    color: #0080FF;
+}
+
+.lightgray-text {
+    color: #BDC7D1;
+}
+
+/*---Aside---*/
+
+aside {
+    margin-top: 250px;
+    float: right;
+    text-align: center;
+    margin-right: 20%;
+    /*border: 1px solid red;*/
+}
+
+aside a {
+    color: #0080FF;
+    font-weight: bolder;
+    text-decoration: none;
+}
